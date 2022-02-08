@@ -1,2 +1,2 @@
-# image-carousel-react
+# Image-Carousel-React
 Simple image carousel with React
